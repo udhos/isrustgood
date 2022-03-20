@@ -9,3 +9,5 @@
 ![look! I'm a rust programmer](images/look_i_am_rust_programmer.png)
 
 * [Yes, Rust is by far the most unreadable language that I've tried.](https://news.ycombinator.com/item?id=21597674)
+
+* [Rust severely disappoints me](http://esr.ibiblio.org/?p=7294)
