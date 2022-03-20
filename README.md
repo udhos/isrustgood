@@ -11,3 +11,5 @@
 * [Yes, Rust is by far the most unreadable language that I've tried.](https://news.ycombinator.com/item?id=21597674)
 
 * [Rust severely disappoints me](http://esr.ibiblio.org/?p=7294)
+
+* [Rust vs. Go](https://blog.ntpsec.org/2017/01/18/rust-vs-go.html)
