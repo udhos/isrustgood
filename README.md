@@ -1,5 +1,7 @@
 # isrustgood
 
+* [Back to Go, Rust is Slow (in Ways That Matter to the Most People)](https://youtu.be/5cEunr8hPE0)
+
 * [Why I hate Rust programming language?](https://www.youtube.com/watch?v=ksTyCQwHGro)
 
 * [I really like Rust but let's be honest the syntax is pretty ugly](https://dev.to/maniflames/comment/oi9f)
