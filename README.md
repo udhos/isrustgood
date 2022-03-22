@@ -15,3 +15,7 @@
 * [Rust severely disappoints me](http://esr.ibiblio.org/?p=7294)
 
 * [Rust vs. Go](https://blog.ntpsec.org/2017/01/18/rust-vs-go.html)
+
+* [Why Dark didn't choose Rust](https://blog.darklang.com/why-dark-didnt-choose-rust/)
+
+* [First thoughts on Rust vs OCaml](https://blog.darklang.com/first-thoughts-on-rust-vs-ocaml/)
