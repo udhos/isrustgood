@@ -1,5 +1,7 @@
 # isrustgood
 
+* [Rust believes that tech is and always will be political.](https://www.youtube.com/watch?v=_DwaZj3gPYY)
+
 * [Back to Go, Rust is Slow (in Ways That Matter to the Most People)](https://youtu.be/5cEunr8hPE0)
 
 * [Why I hate Rust programming language?](https://www.youtube.com/watch?v=ksTyCQwHGro)
