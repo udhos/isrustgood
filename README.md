@@ -21,3 +21,5 @@
 * [Why Dark didn't choose Rust](https://blog.darklang.com/why-dark-didnt-choose-rust/)
 
 * [First thoughts on Rust vs OCaml](https://blog.darklang.com/first-thoughts-on-rust-vs-ocaml/)
+
+* [Rust is not a good C replacement](https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html)
