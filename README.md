@@ -1,5 +1,7 @@
 # isrustgood
 
+* [Why Golang instead of Rust to develop the Krater desktop app](https://blog.moonguard.dev/why-golang-instead-of-rust-to-develop-the-krater-desktop-app)
+
 * [Rust believes that tech is and always will be political.](https://www.youtube.com/watch?v=_DwaZj3gPYY)
 
 * [Back to Go, Rust is Slow (in Ways That Matter to the Most People)](https://youtu.be/5cEunr8hPE0)
