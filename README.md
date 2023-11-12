@@ -1,5 +1,7 @@
 # isrustgood
 
+* [My negative views on Rust](https://chrisdone.com/posts/rust/) - "It’s not the technology that’s working poorly, it’s that you’re using it wrongly."
+
 * [The Rust programming language absolutely positively sucks](https://www.reddit.com/r/rust/comments/12b7p2p/the_rust_programming_language_absolutely/) - "The Rust programming language is atrocious. It is horrible, and I wish it a painful and swift death."
 
 * [Why Golang instead of Rust to develop the Krater desktop app](https://blog.moonguard.dev/why-golang-instead-of-rust-to-develop-the-krater-desktop-app)
