@@ -1,6 +1,6 @@
 # isrustgood
 
-* [A Living Hell](https://www.reddit.com/r/learnrust/comments/1binxlv/rust_a_living_hell_the_perspective_from_a/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=2) - "This has been the worst experience"
+* [Rust - A Living Hell - The Perspective From A Programmer Of 30 Years](https://www.reddit.com/r/learnrust/comments/1binxlv/rust_a_living_hell_the_perspective_from_a/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=2) - "Every language I have learned and used was an exciting experience. It has always been fun to learn new ways of thinking for approaching and solving problems. Each one gave a different and interesting perspective and set of challenges ....but they were all FUN. (...) This (Rust) has been the worst experience learning a programming language that I have ever had by far. I found absolutely no joy in it in any shape or form. Every single step on the path was full of absolute frustration and misery."
 
 * [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454) - "Rust is awesome, for certain things. But think twice before picking it up for a startup that needs to move fast."
 
